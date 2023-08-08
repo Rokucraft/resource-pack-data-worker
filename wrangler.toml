@@ -1,0 +1,8 @@
+name = "pack-data"
+main = "src/index.ts"
+compatibility_date = "2023-05-03"
+
+[[r2_buckets]]
+binding = 'PACK_BUCKET'
+bucket_name = 'resource-pack'
+preview_bucket_name = 'resource-pack-dev'
